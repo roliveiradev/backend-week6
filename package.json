@@ -11,6 +11,9 @@
     "cors": "^2.8.5",
     "eslint": "^5.16.0",
     "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "gaxios": "^2.3.2",
+    "googleapis": "^47.0.0",
     "mongoose": "^5.5.0",
     "multer": "^1.4.1",
     "socket.io": "^2.2.0"

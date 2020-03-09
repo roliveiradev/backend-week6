@@ -1,0 +1,10 @@
+Client ID: 632111554351-01pfrav1llc3ahm5531uktvaflnd745m.apps.googleusercontent.com
+Client Secret: nJrL1KEvWI9vPRJ3K58tWIOU
+
+
+
+https://developers.google.com/drive/api/v3/quickstart/nodejs
+
+
+
+4/xQE7NHLSgCuJfQFVqD2sK_2sLgH3PPob_KaJOeTg1wOg6Bp0HWnAAeQ
