@@ -1,3 +1,7 @@
 node_modules
 tmp/*
 !tmp/.gitkeep
+credentials.json
+Google API.txt
+token.json
+api_gdrive.rar
